@@ -1,0 +1,3 @@
+[submodule "eir-code-service"]
+	path = eir-code-service
+	url = https://github.com/manojbest/eir-code-service.git
