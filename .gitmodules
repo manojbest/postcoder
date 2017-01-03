@@ -1,3 +1,18 @@
 [submodule "eir-code-service"]
 	path = eir-code-service
 	url = https://github.com/manojbest/eir-code-service.git
+[submodule "eureka-service"]
+	path = eureka-service
+	url = https://github.com/manojbest/eureka-service.git
+[submodule "uk-code-service"]
+	path = uk-code-service
+	url = https://github.com/manojbest/uk-code-service.git
+[submodule "sidecar-service"]
+	path = sidecar-service
+	url = https://github.com/manojbest/sidecar-service.git
+[submodule "edge-service"]
+	path = edge-service
+	url = https://github.com/manojbest/edge-service.git
+[submodule "ui-service"]
+	path = ui-service
+	url = https://github.com/manojbest/ui-service.git
