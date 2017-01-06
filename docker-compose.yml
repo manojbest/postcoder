@@ -41,3 +41,9 @@ gateway:
     - sidecar
     - eircode
 
+ui:
+  image: postcoder/ui-service
+  ports:
+    - "80:80"
+  links:
+    - gateway
