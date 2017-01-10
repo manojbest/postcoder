@@ -16,7 +16,7 @@ git fetch
 git pull origin master
 mvn package docker:build
 
-cd ../edge-code-service
+cd ../edge-service
 git fetch
 git pull origin master
 mvn package docker:build
