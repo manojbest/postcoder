@@ -1,6 +1,6 @@
 # postcoder
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http://projects.spring.io/spring-cloud/)
+[![N|Solid](https://github.com/manojbest/postcoder/blob/master/springcloud.png)](http://projects.spring.io/spring-cloud/)
 
 Postcoder is a cloud-enabled, mobile-ready, AngularJS, Nodejs and Spring clould powered address data store for Ireland and United Kingdom countries which provides powerful way to retrieve address details very faster.
 
