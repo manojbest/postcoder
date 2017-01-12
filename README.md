@@ -18,6 +18,8 @@ Entire system is layered down to 7 diffrent components and which is based on the
 
 ##### Component Diagram
 
+postcoder.png
+
 
 ###### 1. ui-service
 This is the User Interface of postcoder which is based on AngularJs. Ui-service is running on a separate docker container from nginx server. 
