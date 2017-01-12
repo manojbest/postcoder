@@ -18,7 +18,7 @@ Entire system is layered down to 7 diffrent components and which is based on the
 
 ##### Component Diagram
 
-postcoder.png
+![alt tag](https://github.com/manojbest/postcoder/master/postcoder.png)
 
 
 ###### 1. ui-service
