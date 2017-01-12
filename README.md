@@ -51,3 +51,50 @@ For more information https://github.com/manojbest/sidecar-service
 
 ###### 7. redis
 Redis is used as data store in the postcoder where it caches address details from third-party API's.
+
+### Tech
+
+postcoder uses a number of open source projects to work properly:
+
+* [SpringCloud] - cloud based solution for web apps
+* [AngularJS] - HTML enhanced for web apps!
+* [Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+* [hapi] -  node.js server app framework 
+* [Gulp] - the streaming build system
+* [bower] -  client siide asset manager
+* [Docker] - containerized the applications
+
+And of course postcoder itself is open source with a [public repository][dill]
+ on GitHub.
+
+### Installation
+
+postcoder requires [node.js], [maven], [bower], [gulp] and [docker] to run.
+
+Download and extract the [latest pre-built release](https://github.com/manojbest/postcoder).
+
+Install the dependencies and devDependencies and start the servers.
+
+```sh
+$ cd postcoder
+$ sh build.sh
+$ docker-compose up
+```
+
+Run application form http://localhost
+
+### Todos
+
+ - Add SpringCloud's Config server
+ - Write e2e tests using protractor/ selenium
+
+[dill]: <https://github.com/manojbest/postcoder>
+[SpringCloud]: <http://projects.spring.io/spring-cloud/>
+[node.js]: <http://nodejs.org>
+[Bootstrap]: <http://twitter.github.com/bootstrap/>
+[hapi]: <https://hapijs.com/>
+[Gulp]: <http://gulpjs.com>
+[bower]: https://bower.io/
+[Docker]: <https://hapijs.com/>
+[maven]: <https://maven.apache.org/>
