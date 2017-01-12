@@ -92,6 +92,7 @@ Run application form http://localhost
 [dill]: <https://github.com/manojbest/postcoder>
 [SpringCloud]: <http://projects.spring.io/spring-cloud/>
 [node.js]: <http://nodejs.org>
+[AngularJS]: <http://angularjs.org>
 [Bootstrap]: <http://twitter.github.com/bootstrap/>
 [hapi]: <https://hapijs.com/>
 [Gulp]: <http://gulpjs.com>
